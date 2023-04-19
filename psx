@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yagizvsx/Milk-Up/main/PSX"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yagizvsx/Milk-Up/main/psx"))()
